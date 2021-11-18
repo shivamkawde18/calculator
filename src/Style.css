@@ -1,0 +1,22 @@
+.mainDiv{
+    position: absolute;
+    top: 13rem;
+    display: flex;
+    border: solid;
+    height: 21rem
+;
+    width: 32rem
+;
+    left: 30rem
+;
+}
+.inputs{
+    position: absolute;
+    top: 6rem;
+}
+.btn{
+        height: 3rem ;
+        width: 8rem
+    ;
+        font-size: x-large;
+}
